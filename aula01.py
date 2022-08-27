@@ -22,3 +22,23 @@ print(sua_altura)
 
 frase_de_boas_vindas = 'Sejam bem vindas ao LuizaCode'
 print(frase_de_boas_vindas)
+
+# operadores aritméticos
+number1 = 4
+number2 = 2
+
+soma = number1 + number2
+print(soma)
+print(int(soma))
+subtracao = number1 - number2
+print(subtracao)
+multiplicacao = number1 * number2
+print(multiplicacao)
+divisao = number1 / number2
+print(divisao)
+divisao_inteira = number1 // number2
+print(divisao_inteira)
+modulo = number1 % number2
+print(modulo)
+exponenciacao = number1 ** number2
+print(exponenciacao)
